@@ -1,0 +1,2 @@
+openMRS-module-myfristmodule
+============================
